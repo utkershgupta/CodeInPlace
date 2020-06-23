@@ -1,5 +1,5 @@
 # CodeInPlace
-This repository contains the final project whcihI created in CodeInplace program by Stanford University
+This repository contains the final project which I created in CodeInplace program by Stanford University
 
 The WordGuess game
 
